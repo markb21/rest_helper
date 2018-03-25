@@ -3,7 +3,7 @@
 This parser allows you to parse config files to create API calls.
 It expects two arguments i.e. number of API requests to output and input config file.
 
-##Usage
+## Usage
 ### In CLI
 Run the script rest_helper.py with 2 mandatory options:
  <ul>
